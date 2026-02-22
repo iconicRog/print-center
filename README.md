@@ -65,12 +65,13 @@ Deployed on Netlify — [print-center](https://github.com/iconicRog/print-center
 print-center/
 ├── public/                  # Static assets (images, favicon)
 │   ├── favicon.png
-│   ├── photo-printing.png
-│   ├── large-format-printing.png
-│   ├── business-branding.png
-│   ├── custom-stationery.png
-│   ├── event-materials.png
-│   └── Office-Supplies.png
+│   └── images/              # Capability & service images
+│       ├── photo-printing.png
+│       ├── large-format-printing.png
+│       ├── business-branding.png
+│       ├── custom-stationery.png
+│       ├── event-materials.png
+│       └── Office-Supplies.png
 ├── src/
 │   ├── components/
 │   │   ├── Navbar.jsx       # Responsive nav with mobile drawer
@@ -159,7 +160,7 @@ Edit the phone, email, address, and WhatsApp number in:
 
 ### Swap capability images
 
-Drop new images into `public/` and update the `img` paths in the `capabilities` array in `src/pages/Home.jsx`.
+Drop new images into `public/images/` and update the `img` paths in the `capabilities` array in `src/pages/Home.jsx`.
 
 ### Change theme colours
 

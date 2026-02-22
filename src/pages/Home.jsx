@@ -27,12 +27,12 @@ const whyUs = [
 ]
 
 const capabilities = [
-  { label: 'Large Format Printing', color: 'from-sky to-navy',        img: '/large-format-printing.png' },
-  { label: 'Custom Stationery',     color: 'from-gold to-sky',        img: '/custom-stationery.png' },
-  { label: 'Event Materials',       color: 'from-navy-mid to-sky',    img: '/event-materials.png' },
-  { label: 'Business Branding',     color: 'from-sky to-gold',        img: '/business-branding.png' },
-  { label: 'Photo Printing',        color: 'from-gold to-navy-mid',   img: '/photo-printing.png' },
-  { label: 'Office Supplies',       color: 'from-navy to-navy-light', img: '/Office-Supplies.png' },
+  { label: 'Large Format Printing', color: 'from-sky to-navy',        img: '/images/large-format-printing.png' },
+  { label: 'Custom Stationery',     color: 'from-gold to-sky',        img: '/images/custom-stationery.png' },
+  { label: 'Event Materials',       color: 'from-navy-mid to-sky',    img: '/images/event-materials.png' },
+  { label: 'Business Branding',     color: 'from-sky to-gold',        img: '/images/business-branding.png' },
+  { label: 'Photo Printing',        color: 'from-gold to-navy-mid',   img: '/images/photo-printing.png' },
+  { label: 'Office Supplies',       color: 'from-navy to-navy-light', img: '/images/Office-Supplies.png' },
 ]
 
 function CounterStat({ end, label }) {
