@@ -6,7 +6,7 @@ A modern, fully responsive marketing website for a professional print center bus
 
 ## Live Demo
 
-Deployed on Netlify — [print-center](https://github.com/iconicRog/print-center)
+Deployed on Netlify — [print-center](https://ismail-print-center.netlify.app/)
 
 ---
 
