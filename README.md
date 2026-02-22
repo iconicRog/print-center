@@ -12,6 +12,8 @@ Deployed on Netlify — [print-center](https://github.com/iconicRog/print-center
 
 ## Screenshots
 
+![PrintCenter – System Screenshot](public/images/readme1.png)
+
 | Home | Services | Contact |
 |------|----------|---------|
 | Hero with 3D Ballpit & Orb background | Accordion service cards with preview images | Contact form with WhatsApp integration |
